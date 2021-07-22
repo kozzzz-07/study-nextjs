@@ -3,17 +3,20 @@
     {
       "title": "title1",
       "body": "body1",
-      "slug": "20210101_title1"
+      "slug": "20210101_title1",
+      "description": "description1"
     },
     {
       "title": "title2",
       "body": "body2",
-      "slug": "20210201_title2"
+      "slug": "20210201_title2",
+      "description": "description2"
     },
     {
       "title": "title3",
       "body": "body3",
-      "slug": "20210301_title3"
+      "slug": "20210301_title3",
+      "description": "description3"
     }
   ]
 }

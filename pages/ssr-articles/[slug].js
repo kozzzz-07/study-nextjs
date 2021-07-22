@@ -1,5 +1,5 @@
 const SSRArticlePage = (props) => {
-// getServerSideProps で返した値を受け取る
+  // getServerSideProps で返した値を受け取る
 
   return (
     <div>
